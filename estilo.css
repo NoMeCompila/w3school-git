@@ -1,0 +1,13 @@
+h1{
+	color:blue;
+	text-align:center;
+	font-family: sans-serif;
+}
+
+body{
+	background-color: rgb(173, 216, 230);
+}
+
+#principal-image{
+	text-align:center;
+}
