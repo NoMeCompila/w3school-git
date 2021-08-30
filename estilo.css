@@ -1,19 +1,26 @@
 h1{
-	color:blue;
+	color: blue;
 	text-align:center;
 	font-family: sans-serif;
 }
 
 h2{
 	text-align:center;
+	color: blue;
 	font-family:sans-serif;
 }
 
 
-body{
-	background-color: rgb(173, 216, 230);
-}
 
+footer{
+	color:blue;
+	font-size:20px;
+	margin-top:20px;
+	background-color:black;
+	text-align:center;
+	font-family:sans-serif;
+
+}
 #tabla-pri{
 	margin:20px;
 }
@@ -29,3 +36,10 @@ body{
 	margin:20px;
 }
 
+#titu{
+	color:blue;
+}
+
+body{
+	background-color:blue;
+}
